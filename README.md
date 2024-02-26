@@ -8,4 +8,4 @@ This repository encompasses Python implementations for conducting residual analy
 
 3. **bijan.eplot**: Designed to furnish a multifaceted view of residuals, this function produces a composite plot consisting of four subplots: a residual plot, a histogram of errors, a Q-Q plot for assessing normality, and an autocorrelation plot to examine dependency among residuals.
 
-Through the temporal examination of residual values, analysts can discern patterns within forecast errors, thereby evaluating the model's predictive accuracy. The distribution plot is instrumental in verifying the assumption of normality in residuals, while the autocorrelation plot is crucial for detecting dependencies among residuals, both of which are essential for refining forecasting models.
+Through the temporal examination of residual value, analysts can discern patterns within forecast errors, thereby evaluating the model's predictive accuracy. The distribution plot is instrumental in verifying the assumption of normality in residuals, while the autocorrelation plot is crucial for detecting dependencies among residuals, both of which are essential for refining forecasting models.
